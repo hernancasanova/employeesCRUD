@@ -1,0 +1,3 @@
+- `yarn install`
+- copy `.env.example` to `.env` and replace with the local url of your api
+- `yarn start`
