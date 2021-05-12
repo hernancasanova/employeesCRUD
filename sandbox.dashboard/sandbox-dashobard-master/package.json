@@ -20,7 +20,7 @@
     "bootstrap": "^4.1.1",
     "bugsnag-js": "^4.7.3",
     "bugsnag-react": "^1.1.1",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "classnames": "^2.2.6",
     "core-js": "^2.5.7",
     "dotenv": "^6.0.0",
