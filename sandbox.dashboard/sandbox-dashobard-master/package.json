@@ -17,7 +17,7 @@
     "@coreui/icons": "^0.2.0",
     "@coreui/react": "^2.0.1",
     "apisauce": "^0.14.3",
-    "bootstrap": "^4.1.1",
+    "bootstrap": "^4.3.1",
     "bugsnag-js": "^4.7.3",
     "bugsnag-react": "^1.1.1",
     "chart.js": "^2.7.2",
